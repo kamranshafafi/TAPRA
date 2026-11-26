@@ -1,11 +1,6 @@
 # TAPRA: Traffic-Aware UAV Positioning and Radio Resource Allocation
 
-Code, simulator settings, calibration data, and per-seed results for
-
-> K. Shafafi *et al.*, "Traffic-Aware UAV Positioning and Radio Resource Allocation for Mobile Users
-> in Urban Networks," *IEEE Open Journal of the Communications Society*, 2026 (OJCOMS-07829-2026).
-
-Release `v1.0-ojcoms-r2` reproduces every table and figure of the second revision.
+Code, simulator settings, calibration data, and per-seed results 
 
 ## Contents
 
